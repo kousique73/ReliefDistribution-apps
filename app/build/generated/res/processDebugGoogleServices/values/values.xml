@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://relief-distribution-2w5-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">798958132797</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgYtoCIsc8Vov5nMbzeWeNQ0RL6fkO_tM</string>
+    <string name="google_app_id" translatable="false">1:798958132797:android:6b5cafbf75fa3226e8d454</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgYtoCIsc8Vov5nMbzeWeNQ0RL6fkO_tM</string>
+    <string name="google_storage_bucket" translatable="false">relief-distribution-2w5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">relief-distribution-2w5</string>
+</resources>
