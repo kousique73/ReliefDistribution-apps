@@ -1,0 +1,5 @@
+com.example.reliefdistribution.test.app-core-1.6.1-0 C:\Users\DELL\.gradle\caches\8.9\transforms\ca9252b76e555dfe792eb102654b4536\transformed\core-1.6.1\res
+com.example.reliefdistribution.test.app-androidTest-1 C:\Users\DELL\AndroidStudioProjects\ReliefDistribution\app\build\generated\res\resValues\androidTest\debug
+com.example.reliefdistribution.test.app-mergeDebugAndroidTestResources-2 C:\Users\DELL\AndroidStudioProjects\ReliefDistribution\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.reliefdistribution.test.app-mergeDebugAndroidTestResources-3 C:\Users\DELL\AndroidStudioProjects\ReliefDistribution\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.reliefdistribution.test.app-debugAndroidTest-4 C:\Users\DELL\AndroidStudioProjects\ReliefDistribution\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
